@@ -1,0 +1,10 @@
+#searchForm { width:200px; }
+#registerMobile fieldset.multi legend span.label{width:315px;}
+#registerMobile fieldset.multi .first{margin-left:320px;}
+#registerMobile fieldset.multi legend span.helptxt{width:310px; white-space:normal;padding-left:140px;}
+.fieldDOB { clear:both; padding-top:0.1em; }
+
+/* Minibrowser psc styles */
+div#page div.mobile span#pscHelpTxtOnload {padding-left: 100px;}
+div#page div.mobile span#pwdres2.helpfair span.pscTooltip {padding-left: 60px;}
+div#page div.mobile span#pwdres2.helpweak span.pscTooltip, div#page div.mobile span#pwdres2.helpstrong span.pscTooltip {padding-left: 80px;}
